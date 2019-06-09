@@ -2,8 +2,8 @@
     {
         "id": "plugin-com-google-translate",
         "name": "Google Translation",
-        "version": "36acb093af6455f4b99ace239eb14caa50536d09",
-        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/36acb093af6455f4b99ace239eb14caa50536d09/plugins/plugin-com-google-translate.js",
+        "version": "51af23559e7a6a569ef048d7d89da90c7aaa9b08",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/51af23559e7a6a569ef048d7d89da90c7aaa9b08/plugins/plugin-com-google-translate.js",
         "description": "Provides all language translation",
         "source": "Google Translate",
         "sourceUrl": "https://translate.google.com/",
@@ -20,8 +20,8 @@
     {
         "id": "plugin-com-baidu-fanyi",
         "name": "Baidu Multi-language Translation",
-        "version": "2844c840446b0800183a7df5859908dd81db47de",
-        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/2844c840446b0800183a7df5859908dd81db47de/plugins/plugin-com-baidu-fanyi.js",
+        "version": "0c39f80a9875c0c7063518b6c813bb1d15c322fa",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/0c39f80a9875c0c7063518b6c813bb1d15c322fa/plugins/plugin-com-baidu-fanyi.js",
         "description": "Support up to 28 languages translation",
         "source": "Baidu Fanyi",
         "sourceUrl": "https://fanyi.baidu.com/",
@@ -31,8 +31,8 @@
     {
         "id": "plugin-com-bing-translator",
         "name": "Bing Microsoft Translator",
-        "version": "e3d7375015ac5bb17dbdc9166403d7f7937b4944",
-        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/e3d7375015ac5bb17dbdc9166403d7f7937b4944/plugins/plugin-com-bing-translator.js",
+        "version": "640cf0e2e7f0849df2c0aeabd3ca6e2631ea1d03",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/640cf0e2e7f0849df2c0aeabd3ca6e2631ea1d03/plugins/plugin-com-bing-translator.js",
         "description": "Bing multiple language translatio",
         "source": "Bing Microsoft Translator",
         "sourceUrl": "https://www.bing.com/translator",

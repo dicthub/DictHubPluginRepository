@@ -2,8 +2,8 @@
     {
         "id": "plugin-com-google-translate",
         "name": "Google Translation",
-        "version": "51af23559e7a6a569ef048d7d89da90c7aaa9b08",
-        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/51af23559e7a6a569ef048d7d89da90c7aaa9b08/plugins/plugin-com-google-translate.js",
+        "version": "5f36a3937c2b222dcc319f67ead57492febc3935",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/5f36a3937c2b222dcc319f67ead57492febc3935/plugins/plugin-com-google-translate.js",
         "description": "Provides all language translation",
         "source": "Google Translate",
         "sourceUrl": "https://translate.google.com/",

@@ -38,5 +38,16 @@
         "sourceUrl": "https://www.bing.com/translator",
         "author": "DictHub",
         "authorUrl": "https://github.com/dicthub/plugin-com-baidu-fanyi"
+    },
+    {
+        "id": "plugin-com-collinsdictionary",
+        "name": "Collins Dictionary (beta)",
+        "version": "9ed864f9cb0fba9cc0a0b3e76bc22f34b826e6ff",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/9ed864f9cb0fba9cc0a0b3e76bc22f34b826e6ff/plugins/plugin-com-collinsdictionary.js",
+        "description": "Collins Dictionary for English, Chinese, French, German, Italian, Portuguese and Spanish.",
+        "source": "Collins Dictionary",
+        "sourceUrl": "https://www.collinsdictionary.com",
+        "author": "DictHub",
+        "authorUrl": "https://github.com/dicthub/plugin-com-collinsdictionary"
     }
 ]

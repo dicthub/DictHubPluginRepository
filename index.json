@@ -37,7 +37,7 @@
         "source": "Bing Microsoft Translator",
         "sourceUrl": "https://www.bing.com/translator",
         "author": "DictHub",
-        "authorUrl": "https://github.com/dicthub/plugin-com-baidu-fanyi"
+        "authorUrl": "https://github.com/dicthub/plugin-com-bing-translator"
     },
     {
         "id": "plugin-com-collinsdictionary",

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "plugin-com-google-translate",
+        "name": "Google Translation",
+        "version": "5f36a3937c2b222dcc319f67ead57492febc3935",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/5f36a3937c2b222dcc319f67ead57492febc3935/plugins/plugin-com-google-translate.js",
+        "description": "Provides all language translation",
+        "source": "Google Translate",
+        "sourceUrl": "https://translate.google.com/",
+        "author": "DictHub",
+        "authorUrl": "https://github.com/dicthub/plugin-com-google-translate",
+        "options": {
+            "useGoogleCn": {
+                "type": "checkbox",
+                "default": "false",
+                "description": "Use https://translate.google.cn/"
+            }
+        }
+    },
+    {
+        "id": "plugin-com-baidu-fanyi",
+        "name": "Baidu Multi-language Translation",
+        "version": "0c39f80a9875c0c7063518b6c813bb1d15c322fa",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/0c39f80a9875c0c7063518b6c813bb1d15c322fa/plugins/plugin-com-baidu-fanyi.js",
+        "description": "Support up to 28 languages translation",
+        "source": "Baidu Fanyi",
+        "sourceUrl": "https://fanyi.baidu.com/",
+        "author": "DictHub",
+        "authorUrl": "https://github.com/dicthub/plugin-com-baidu-fanyi"
+    },
+    {
+        "id": "plugin-com-bing-translator",
+        "name": "Bing Microsoft Translator",
+        "version": "5ec9dd7b9c81967246bae6e2d7324504e5dd3007",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/5ec9dd7b9c81967246bae6e2d7324504e5dd3007/plugins/plugin-com-bing-translator.js",
+        "description": "Bing multiple language translatio",
+        "source": "Bing Microsoft Translator",
+        "sourceUrl": "https://www.bing.com/translator",
+        "author": "DictHub",
+        "authorUrl": "https://github.com/dicthub/plugin-com-bing-translator"
+    },
+    {
+        "id": "plugin-com-collinsdictionary",
+        "name": "Collins Dictionary (beta)",
+        "version": "9ed864f9cb0fba9cc0a0b3e76bc22f34b826e6ff",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/9ed864f9cb0fba9cc0a0b3e76bc22f34b826e6ff/plugins/plugin-com-collinsdictionary.js",
+        "description": "Collins Dictionary for English, Chinese, French, German, Italian, Portuguese and Spanish.",
+        "source": "Collins Dictionary",
+        "sourceUrl": "https://www.collinsdictionary.com",
+        "author": "DictHub",
+        "authorUrl": "https://github.com/dicthub/plugin-com-collinsdictionary"
+    }
+]

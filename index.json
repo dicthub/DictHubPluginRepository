@@ -20,8 +20,8 @@
     {
         "id": "plugin-com-baidu-fanyi",
         "name": "Baidu Multi-language Translation",
-        "version": "dee6b1b1344c9f97bc3310cb67776e66d3178be4",
-        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginArtifacts/dee6b1b1344c9f97bc3310cb67776e66d3178be4/plugins/plugin-com-baidu-fanyi.js",
+        "version": "1535d3735ee4bb35258295301c2bb00b51c33c31",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginArtifacts/1535d3735ee4bb35258295301c2bb00b51c33c31/plugins/plugin-com-baidu-fanyi.js",
         "description": "Support up to 28 languages translation",
         "source": "Baidu Fanyi",
         "sourceUrl": "https://fanyi.baidu.com/",

@@ -31,8 +31,8 @@
     {
         "id": "plugin-com-bing-translator",
         "name": "Bing Microsoft Translator",
-        "version": "5ec9dd7b9c81967246bae6e2d7324504e5dd3007",
-        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginRepository/5ec9dd7b9c81967246bae6e2d7324504e5dd3007/plugins/plugin-com-bing-translator.js",
+        "version": "7aadd011872d6dc855c0efc83f6a6e0cb8f2023f",
+        "contentUrl": "https://raw.githubusercontent.com/dicthub/DictHubPluginArtifacts/7aadd011872d6dc855c0efc83f6a6e0cb8f2023f/plugins/plugin-com-bing-translator.js",
         "description": "Bing multiple language translatio",
         "source": "Bing Microsoft Translator",
         "sourceUrl": "https://www.bing.com/translator",
